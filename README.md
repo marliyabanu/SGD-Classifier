@@ -72,7 +72,7 @@ print(classification_report(y_test, y_pred))
 print("Confusion Matrix:")
 print(confusion_matrix(y_test, y_pred))
 ```
-```
+
 
 ## Output:
 <img width="587" height="386" alt="WhatsApp Image 2026-05-11 at 9 45 18 AM" src="https://github.com/user-attachments/assets/97f166b7-90a9-4ef1-a042-7a26f4234c0d" />
